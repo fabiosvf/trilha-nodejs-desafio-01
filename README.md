@@ -13,6 +13,10 @@
 ```
 $ git clone https://github.com/fabiosvf/trilha-nodejs-desafio-01.git .
 ```
+- Instale as dependências
+```
+$ npm install
+```
 - Inicie o serviço
 ```
 $ npm run dev
